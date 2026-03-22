@@ -12,7 +12,7 @@ about:
 source:
   project: https://github.com/postmanlabs/postman-mcp-server
   branch: main
-  commit: 61b7f9eae66f75f0b3cba5774426adc7b4b425af
+  commit: d381b5683aee0fa880e587ba98905ac195caedc6
 config:
   description: Configure the connection to Postman MCP server
   secrets:
